@@ -154,8 +154,8 @@ KZAEM-Drawings/
 | | |
 |---|---|
 | **Университет** | МГТУ им. Н.Э. Баумана |
-| **Предприятие** | Калужский завод автомобильного электрооборудования (КЗАЭМ) |
-| **Тип работы** | Производственная практика / учебные чертежи |
+| **Предприятие** | КЗАЭМ |
+| **Тип работы** | Производственные чертежи |
 | **Стандарт оформления** | ГОСТ 2.хх (ЕСКД) |
 
 ---
@@ -317,8 +317,8 @@ The **С-461-09** assembly series — sealing rings used in sealing units of ele
 | | |
 |---|---|
 | **University** | Bauman Moscow State Technical University (BMSTU) |
-| **Company** | KZAEM — Kaluga Plant of Automotive Electrical Equipment |
-| **Work type** | Industrial internship / educational engineering drawings |
+| **Company** | KZAEM  |
+| **Work type** | Industrial drawings |
 | **Drawing standard** | GOST 2.xx (ESKD — Unified System of Design Documentation) |
 
 ---
