@@ -8,9 +8,7 @@
 
 ### О репозитории
 
-Данный репозиторий содержит **технические чертежи**, выполненные в период производственной практики на **Калужском заводе автомобильного электрооборудования (КЗАЭМ)**.
-
-Работа выполнена студентом **МГТУ им. Н.Э. Баумана**.
+Работа выполнена студентом **МГТУ им. Н.Э. Баумана** Бурмистровым Валерием Алексеевичем.
 
 ---
 
@@ -171,9 +169,7 @@ KZAEM-Drawings/
 
 ### About
 
-This repository contains **engineering drawings** created during an industrial internship at **KZAEM — Kaluga Plant of Automotive Electrical Equipment**.
-
-Author is a student of **Bauman Moscow State Technical University (BMSTU)**.
+Author is a student of **Bauman Moscow State Technical University (BMSTU)** Burmistrov Valerii.
 
 ---
 
